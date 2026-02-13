@@ -1,0 +1,35 @@
+{
+  "name": "wx-next",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "@wix/api-client": "^1.14.1",
+    "@wix/crm": "^1.0.1473",
+    "@wix/dashboard": "^1.3.42",
+    "@wix/data": "^1.0.393",
+    "@wix/design-system": "^1.256.1",
+    "@wix/essentials": "^1.0.5",
+    "@wix/forms": "^1.0.403",
+    "@wix/sdk": "^1.21.3",
+    "@wix/secrets": "^1.0.70",
+    "next": "16.1.6",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^9",
+    "eslint-config-next": "16.1.6",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}
