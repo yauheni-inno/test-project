@@ -4,6 +4,9 @@ A Next.js-based Wix self-hosted app that provides **bi-directional contact sync*
 
 ## Features
 
+
+чясчясчяячс
+
 ### ✅ Feature #1 — Reliable Bi-Directional Contact Sync (Core)
 - **Automatic two-way sync** between Wix contacts and HubSpot contacts
 - **New contact creation**: Wix → HubSpot, HubSpot → Wix
